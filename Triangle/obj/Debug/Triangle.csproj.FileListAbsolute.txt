@@ -1,0 +1,6 @@
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\bin\Debug\Triangle.exe.config
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\bin\Debug\Triangle.exe
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\bin\Debug\Triangle.pdb
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\obj\Debug\Triangle.exe
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\Triangle\obj\Debug\Triangle.pdb

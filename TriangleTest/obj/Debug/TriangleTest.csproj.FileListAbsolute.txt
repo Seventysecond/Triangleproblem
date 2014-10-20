@@ -1,0 +1,7 @@
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\bin\Debug\TriangleTest.dll
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\bin\Debug\TriangleTest.pdb
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\bin\Debug\xunit.dll
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\bin\Debug\xunit.xml
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.csprojResolveAssemblyReference.cache
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.dll
+c:\users\yutien\documents\visual studio 2013\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.pdb
