@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Triangle
+namespace TriangleTest
 {
-    class Program
+    public class triangle
     {
-        static void Main(string[] args)
+        public void checkpositive(int a, int b, int c)
         {
-            int a, b, c;
             a = b = c = 0;
             while (a <= 0)
             {
@@ -27,27 +25,30 @@ namespace Triangle
                 Console.WriteLine("Please input 3rd edge:");
                 c = int.Parse(Console.ReadLine());
             }
+        }
 
+        public string checkTriangleType(int a, int b, int c)
+        {
+            checkpositive(a, b, c);
             if (a + b > c && b + c > a && a + c > b)
             {
                 if (a == b || a == c || b == c)
                 {
-                    Console.WriteLine("This can be an Isosceles trangle");
+                    return "This can be an Isosceles trangle";
                 }
                 else if (a == b && a == c && b == c)
                 {
-                    Console.WriteLine("This can be a Equilateral triangle");
+                    return "This can be a Equilateral triangle";
                 }
                 else
                 {
-                    Console.WriteLine("This can be a triangle");
+                    return "This can be a triangle";
                 }
 
             }
 
             else
-                Console.WriteLine("This can't be a triangle");
-            Console.ReadKey();
+                return "This can't be a triangle";
         }
     }
 }
